@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "vm": "^0.1.0"
+  },
+  "name": "docxrun",
+  "version": "1.5.0",
+  "description": "Yeahhh!!, this is, docx language / docx script!",
+  "main": "index.js",
+  "bin": {
+    "docxrun": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0"
+}
